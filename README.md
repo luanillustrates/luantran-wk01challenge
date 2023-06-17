@@ -13,7 +13,7 @@ N/A
 
 A landing page for Horiseon's marketing materials.
 
-![website's appearance and functionality preview](assets/images/screenshot.png)
+![website's appearance and functionality preview](Develop/assets/images/screenshot.png)
 
 ## Credits
 
